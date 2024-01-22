@@ -1,9 +1,9 @@
 # Dashboards
 A portfolio showcasing some of the dashboards I've crafted throughout my academic journey.
 
-~~~
-**"I hold the view that an effective dashboard is not characterized by excessive design elements, vibrant colors, or a multitude of graph types. Instead, a valuable dashboard is one that presents information in a straightforward manner, allowing the reader to quickly glean the desired insights with a simple glance."**
-~~~
+
+> **"I hold the view that an effective dashboard is not characterized by excessive design elements, vibrant colors, or a multitude of graph types. Instead, a valuable dashboard is one that presents information in a straightforward manner, allowing the reader to quickly glean the desired insights with a simple glance."**
+
 
 ***Note:***
 These dashboards have been designed in accordance with the academic assignment specifications, ensuring that all the specified requirements are met and considered essential for the dashboard's completion.
