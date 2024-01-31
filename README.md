@@ -19,3 +19,10 @@ _______________
 ### Tech Titans Showdown: Analyzing the Top 10 Companies by Market Capitalization 
 <img width="1512" alt="SCR-20240119-sgug" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/3fe83852-d6e7-4186-8757-a6c0a598b55b">
 
+_______________
+
+### Stock Analysis Dashboard : Which Stock Should We Invest In 2024 ?
+
+
+<img width="1512" alt="SCR-20240126-bfpd" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/036f1d04-cdd1-432e-986c-2674ef330b79">
+
