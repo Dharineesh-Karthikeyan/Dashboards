@@ -26,3 +26,8 @@ _______________
 
 <img width="1512" alt="SCR-20240126-bfpd" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/036f1d04-cdd1-432e-986c-2674ef330b79">
 
+
+________________
+### Singapore Loves Environment: Monitoring the environment health in Singapore 
+
+<img width="597" alt="image" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/4740fdd0-52f2-4610-897f-b86a68841190">
