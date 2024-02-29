@@ -30,4 +30,4 @@ _______________
 ________________
 ### Singapore Loves Environment: Monitoring the environment health in Singapore 
 
-<img width="597" alt="image" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/4740fdd0-52f2-4610-897f-b86a68841190">
+<img width="1512" alt="image" src="https://github.com/Dharineesh-Karthikeyan/Dashboards/assets/12586329/4740fdd0-52f2-4610-897f-b86a68841190">
